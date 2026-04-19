@@ -2,7 +2,7 @@
 
 Проект по предсказанию результатов арбитражных дел Санкт-Петербурга на основе данных за 2023 год. С использованием мультиклассовой классификации построена модель, предсказывающая исход дела с точностью **74%**.
 
-[Ссылка на проект](https://colab.research.google.com/drive/18BRTg7_6QPKt9UwMvlJEeqsjgFKAYeeR#scrollTo=_daBUIW15Wvu)
+[Ссылка на проект](https://colab.research.google.com/drive/18BRTg7_6QPKt9UwMvlJEeqsjgFKAYeeR#scrollTo=NjAFW_te9HmZ)
 
 ---
 
